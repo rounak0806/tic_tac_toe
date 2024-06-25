@@ -1,2 +1,3 @@
-# tic_tac_toe
-its a game website
+# Tic-Tac-Toe in React
+
+Find the project demo at https://CodeCompleteYT.github.io/react-tic-tac-toe
